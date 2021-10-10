@@ -33,6 +33,11 @@ Start the local enviroment
 
 That's all 🙃 (I think...)
 
+### FAQ
+
+If there's an error related to de _nonce_ being to high, then you can go to the MetaMask
+wallet and open the advanced settings of your account and reset it.
+
 ---
 
 ## Reference
@@ -40,3 +45,7 @@ That's all 🙃 (I think...)
 - [The Complete Guide to Full Stack Ethereum Development ](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 - [Hardhat](https://hardhat.org/getting-started/)
 - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+## Screen Shots
+
+![Screen Shot](./screenshots/screen_shot_1.png)
