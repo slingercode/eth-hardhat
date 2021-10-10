@@ -49,3 +49,7 @@ wallet and open the advanced settings of your account and reset it.
 ## Screen Shots
 
 ![Screen Shot](./screenshots/screen_shot_1.png)
+
+![Screen Shot](./screenshots/screen_shot_2.png)
+
+![Screen Shot](./screenshots/screen_shot_3.png)
